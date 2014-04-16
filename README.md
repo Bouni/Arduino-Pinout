@@ -11,6 +11,10 @@ Arduino Pinout images for all types of Arduinos.
 
 <img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20R2%20Pinout.svg" width="600">
 
+## Arduino Uno
+
+<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20Pinout.svg" width="600">
+
 ## Arduino Ethernet
 
 <img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Ethernet%20Pinout.svg" width="600">
