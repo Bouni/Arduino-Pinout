@@ -31,7 +31,7 @@ Feel free to fork and extend the pinouts. Pull requests are welcome!
 
 ## Arduino Micro
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Micro%20Pinout.svg" width="600">
+<img src="https://raw.githubusercontent.com/Bouni/Arduino-Pinout/master/Arduino%20Micro%20Pinout.svg" width="600">
 
 ## Arduino Ethernet
 
