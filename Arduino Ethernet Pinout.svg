@@ -26,21 +26,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1064.7798"
+     inkscape:cx="677.89138"
      inkscape:cy="804.75633"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-grids="true"
+     inkscape:snap-grids="false"
      inkscape:snap-center="true"
      inkscape:window-width="1680"
      inkscape:window-height="1028"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid2996"
@@ -86,6 +87,14 @@
      id="layer3"
      inkscape:label="AVR"
      transform="translate(0,100)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4207"
+       width="1500"
+       height="1600"
+       x="0"
+       y="-100"
+       ry="0" />
     <image
        y="-1127.5"
        x="98"
