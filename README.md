@@ -1,7 +1,9 @@
 Arduino-Pinout
 ==============
 
-Arduino Pinout images for all types of Arduinos.
+Arduino Pinout images for (hopefully soon) all types of Arduinos.
+
+Feel free to fork and extend the pinouts. Pull requests are welcome! 
 
 ## Arduino Uno R3
 
