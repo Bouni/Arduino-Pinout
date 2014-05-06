@@ -15,7 +15,7 @@ Feel free to fork and extend the pinouts. Pull requests are welcome!
 
 ## Arduino Uno
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20Pinout.svg" width="800">
+<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20Pinout.png" width="800">
 
 ## Arduino Uno SMD
 
