@@ -7,32 +7,32 @@ Feel free to fork and extend the pinouts. Pull requests are welcome!
 
 ## Arduino Uno R3
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20R3%20Pinout.png" width="800">
+![Arduino-Uno-R3](Arduino%20Uno%20R3%20Pinout.png)
 
 ## Arduino Uno R2
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20R2%20Pinout.png" width="800">
+![Arduino-Uno-R2](Arduino%20Uno%20R2%20Pinout.png)
 
 ## Arduino Uno
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20Pinout.png" width="800">
+![Arduino-Uno](Arduino%20Uno%20Pinout.png)
 
 ## Arduino Uno SMD
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Uno%20SMD%20Pinout.png" width="800">
+![Arduino-Uno-SMD](Arduino%20Uno%20SMD%20Pinout.png)
 
 ## Arduino Pro
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Pro%20Pinout.png" width="800">
+![Arduino-Pro](Arduino%20Pro%20Pinout.png)
 
 ## Arduino Leonardo
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Leonardo%20Pinout.png" width="800">
+![Arduino-Leonardo](Arduino%20Leonardo%20Pinout.png)
 
 ## Arduino Micro
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Micro%20Pinout.png" width="800">
+![Arduino-Micro](Arduino%20Micro%20Pinout.png)
 
 ## Arduino Ethernet
 
-<img src="https://rawgithub.com/Bouni/Arduino-Pinout/master/Arduino%20Ethernet%20Pinout.svg" width="800">
+![Arduino-Ethernet](Arduino%20Ethernet%20Pinout.png)
